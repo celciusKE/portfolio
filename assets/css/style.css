@@ -201,6 +201,7 @@ h1, h2, h3, h4, h5, h6 {
   background: url("../img/Mystical.jpeg") top center;
   background-size: cover;
 }
+
 #hero:before {
   content: "";
   background: rgba(5, 13, 24, 0.3);
